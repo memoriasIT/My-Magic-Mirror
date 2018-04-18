@@ -23,3 +23,6 @@ Modules I used in this build are:
   * twitControl
   
 ![Screenshot of the masterpiece](https://i.imgur.com/DwOa8gE.png)
+
+## Changelog
+- [4/18/2018] Added compatibility with chromecast
